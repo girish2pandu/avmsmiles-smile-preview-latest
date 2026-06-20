@@ -4,7 +4,7 @@ A mobile webpage anyone can open on their own phone — no staff involved, no lo
 
 (Internally this is built on a codebase called "SmilePath" — you'll see that name in a few code comments and the original project this was adapted from. It doesn't appear anywhere in the actual deployed tool.)
 
-## The whole flow, in a few taps
+## The whole flow, in a few taps 
 
 1. **Take my photo** → the phone's own front-facing camera opens, the visitor takes a selfie smiling with teeth visible.
 2. Tap **See my smile preview**. This tries, in order: a real AI-edited "after" photo (teeth actually straightened and whitened, everything else unchanged) if that's been set up; otherwise a free instant in-browser brightening enhancement.
