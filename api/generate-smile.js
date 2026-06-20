@@ -3,8 +3,8 @@
 
 const https = require('https');
 
-const HF_HOST = 'api-inference.huggingface.co';
-const HF_PATH = '/models/timbrooks/instruct-pix2pix';
+const HF_HOST = 'router.huggingface.co';
+const HF_PATH = '/hf-inference/models/timbrooks/instruct-pix2pix';
 const PROMPT = 'make the teeth perfectly straight, evenly spaced and naturally white as if after clear aligner orthodontic treatment, photorealistic, keep the rest of the face completely identical';
 const NEGATIVE_PROMPT = 'blurry, distorted face, different person, changed skin, changed background, changed expression, cartoon, illustration, deformed';
 

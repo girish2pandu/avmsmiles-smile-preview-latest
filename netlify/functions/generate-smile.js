@@ -5,8 +5,8 @@
 const https = require('https');
 const { URL }  = require('url');
 
-const HF_HOST   = 'api-inference.huggingface.co';
-const HF_PATH   = '/models/timbrooks/instruct-pix2pix';
+const HF_HOST   = 'router.huggingface.co';
+const HF_PATH   = '/hf-inference/models/timbrooks/instruct-pix2pix';
 
 const PROMPT =
   'make the teeth perfectly straight, evenly spaced and naturally white ' +
