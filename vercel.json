@@ -1,5 +1,4 @@
 {
-  "outputDirectory": ".",
   "functions": {
     "api/generate-smile.js": {
       "maxDuration": 60
