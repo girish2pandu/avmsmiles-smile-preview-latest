@@ -17,7 +17,7 @@ const DISCLAIMER_TEXT =
 // --- Fill these in before going live -----------------------------------
 // 1. Your HuggingFace token (huggingface.co → Settings → Access Tokens)
 //    Create a free account, generate a "Read" token, paste it here.
-const HF_TOKEN = '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';
+const HF_TOKEN = '';
 
 // 2. AVMSmiles' WhatsApp number — international format, no spaces/+/0
 //    e.g. '91XXXXXXXXXX'. Leave empty to hide the booking button.
